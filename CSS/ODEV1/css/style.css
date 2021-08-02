@@ -1,0 +1,71 @@
+body{
+    margin:0;
+    padding:0;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto 0;
+}
+header h1{
+    text-align: center;
+    font-weight: bold;
+    color:red;
+    font-size: 36px;
+   
+}
+nav{
+    text-align: center;
+}
+nav a:link{
+    text-decoration: none;
+    font-size: 18px;
+}
+nav a:hover{
+    text-decoration: underline;
+    color: red;
+}
+section{
+    text-align: center;
+}
+section h2{
+    color:darkviolet;
+    
+}
+section h3{
+    color: darkgoldenrod;
+    text-align: left;
+    font-weight: bold;
+}
+section ul li{
+    list-style: inside;
+}
+section p{
+  text-align: left;
+  font-weight: bold;
+}
+article {
+    list-style-position: inside;
+    text-align: center;
+    margin-right: 3em;
+  
+}
+article p{
+    text-align: center;
+    font-weight: lighter;
+}
+
+.text-font-bold{
+    font-weight: bold;
+}
+.text-color-red{
+    color:red;
+}
+.text-color-blue{
+    color:blue;
+}
+
+.text-color-blueviolet{
+    color: blueviolet
+
+}
+
